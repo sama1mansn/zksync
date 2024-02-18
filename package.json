@@ -2,7 +2,7 @@
   "name": "zksync-root",
   "version": "1.0.0",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "workspaces": {
     "packages": [
       "sdk/zksync.js",
